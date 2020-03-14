@@ -1,2 +1,2 @@
-# ai_for_trading_ND
+# ai_trading_nd
 Projects from the Udacity Nanodegree Program
